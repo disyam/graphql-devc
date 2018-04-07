@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Varian Wrynn",
+    "gender": "Male",
+    "race": "Human",
+    "class": "Warrior"
+  },
+  {
+    "name": "Muradin Bronzebeard",
+    "gender": "Male",
+    "race": "Dwarf",
+    "class": "Warrior"
+  },
+  {
+    "name": "Falstad Wildhammer",
+    "gender": "Male",
+    "race": "Dwarf",
+    "class": "Warrior"
+  },
+  {
+    "name": "Falstad Wildhammer",
+    "gender": "Male",
+    "race": "Dwarf",
+    "class": "Warrior"
+  },
+  {
+    "name": "Moira Thaurissan",
+    "gender": "Female",
+    "race": "Dwarf",
+    "class": "Priest"
+  },
+  {
+    "name": "Tyrande Whisperwind",
+    "gender": "Female",
+    "race": "Night Elf",
+    "class": "Hunter"
+  },
+  {
+    "name": "Malfurion Stormrage",
+    "gender": "Male",
+    "race": "Night Elf",
+    "class": "Druid"
+  },
+  {
+    "name": "Gelbin Mekkatorque",
+    "gender": "Male",
+    "race": "Gnome",
+    "class": "Warrior"
+  },
+  {
+    "name": "Prophet Velen",
+    "gender": "Male",
+    "race": "Draenei",
+    "class": "Priest"
+  },
+  {
+    "name": "Genn Greymane",
+    "gender": "Male",
+    "race": "Worgen",
+    "class": "Warrior"
+  },
+  {
+    "name": "Thrall",
+    "gender": "Male",
+    "race": "Orc",
+    "class": "Shaman"
+  },
+  {
+    "name": "Sylvanas Windrunner",
+    "gender": "Female",
+    "race": "Undead",
+    "class": "Hunter"
+  },
+  {
+    "name": "Baine Bloodhoof",
+    "gender": "Male",
+    "race": "Tauren",
+    "class": "Warrior"
+  },
+  {
+    "name": "Vol'jin",
+    "gender": "Male",
+    "race": "Troll",
+    "class": "Hunter"
+  },
+  {
+    "name": "Lor’themar Theron",
+    "gender": "Male",
+    "race": "Blood Elf",
+    "class": "Hunter"
+  },
+  {
+    "name": "Gallywix",
+    "gender": "Male",
+    "race": "Goblin",
+    "class": "Rogue"
+  }
+]

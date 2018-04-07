@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Human",
+    "faction": "Alliance",
+    "capital": "Stormwind City",
+    "leaders": ["Varian Wrynn"],
+    "mount": "Horse"
+  },
+  {
+    "name": "Dwarf",
+    "faction": "Alliance",
+    "capital": "Ironforge",
+    "leaders": [
+      "Muradin Bronzebeard",
+      "Falstad Wildhammer",
+      "Moira Thaurissan"
+    ],
+    "mount": "Ram"
+  },
+  {
+    "name": "Night Elf",
+    "faction": "Alliance",
+    "capital": "Darnassus",
+    "leaders": ["Tyrande Whisperwind", "Malfurion Stormrage"],
+    "mount": "Nightsaber"
+  },
+  {
+    "name": "Gnome",
+    "faction": "Alliance",
+    "capital": "Gnomeregan",
+    "leaders": ["Gelbin Mekkatorque"],
+    "mount": "Mechanostrider"
+  },
+  {
+    "name": "Draenei",
+    "faction": "Alliance",
+    "capital": "The Exodar",
+    "leaders": ["Prophet Velen"],
+    "mount": "Elekk"
+  },
+  {
+    "name": "Worgen",
+    "faction": "Alliance",
+    "capital": "Gilneas City",
+    "leaders": ["Genn Greymane"],
+    "mount": "Running Wild"
+  },
+  {
+    "name": "Orc",
+    "faction": "Horde",
+    "capital": "Orgrimmar",
+    "leaders": ["Thrall"],
+    "mount": "Wolf"
+  },
+  {
+    "name": "Undead",
+    "faction": "Horde",
+    "capital": "The Undercity",
+    "leaders": ["Sylvanas Windrunner"],
+    "mount": "Skeletal Horse"
+  },
+  {
+    "name": "Tauren",
+    "faction": "Horde",
+    "capital": "Thunder Bluff",
+    "leaders": ["Baine Bloodhoof"],
+    "mount": "Kodo"
+  },
+  {
+    "name": "Troll",
+    "faction": "Horde",
+    "capital": "Darkspear Isle",
+    "leaders": ["Vol'jin"],
+    "mount": "Raptor"
+  },
+  {
+    "name": "Blood Elf",
+    "faction": "Horde",
+    "capital": "Silvermoon City",
+    "leaders": ["Lor’themar Theron"],
+    "mount": "Hawkstrider"
+  },
+  {
+    "name": "Goblin",
+    "faction": "Horde",
+    "capital": "Bilgewater Harbor",
+    "leaders": ["Gallywix"],
+    "mount": "Trike"
+  }
+]
